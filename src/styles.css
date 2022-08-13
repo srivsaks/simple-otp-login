@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.code {
+  text-align: center;
+  -moz-appearance: textfield;
+  font-weight: 30px;
+}
+
+.code::-webkit-outer-spin-button,
+.code::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
